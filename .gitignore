@@ -1,5 +1,5 @@
 # Ignore packages installed by npm
-node_modules/
+**/node_modules
 
 # Ignore files used by various IDEs
 .idea
